@@ -6,11 +6,11 @@
 
 | File | Purpose |
 |---|---|
-| `episteplab-v1.0.0.skill` | Complete skill folder and MIT license, in a ZIP container |
-| `episteplab-codex-plugin-v1.0.0.zip` | The same complete skill in a lightweight Codex plugin container |
+| `episteplab-v1.1.0.skill` | Complete skill folder and MIT license, in a ZIP container |
+| `episteplab-codex-plugin-v1.1.0.zip` | The same complete skill in a lightweight Codex plugin container |
 | `SKILL.md` | Read or preview the instructions; references and templates are absent |
 
-[Open this release](https://github.com/hujizhou35-cmd/EpiStepLab/releases/tag/v1.0.0). GitHub's automatic **Source code** ZIP/TAR downloads contain the tagged repository, including documentation and development files; they are not additional installation editions.
+[Open this release](https://github.com/hujizhou35-cmd/EpiStepLab/releases/tag/v1.1.0). GitHub's automatic **Source code** ZIP/TAR downloads contain the tagged repository, including documentation and development files; they are not additional installation editions.
 
 ## Complete skill: the simplest route
 

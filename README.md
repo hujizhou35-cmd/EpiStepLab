@@ -4,9 +4,9 @@
 
 Discuss, run, and check R analyses of medical public databases—one research step at a time.
 
-**[Download v1.0.0](https://github.com/hujizhou35-cmd/EpiStepLab/releases/tag/v1.0.0) · [Quick start](docs/guides/quickstart.md) · [Prepare your research](docs/guides/research-preparation.md)**
+**[Download v1.1.0](https://github.com/hujizhou35-cmd/EpiStepLab/releases/tag/v1.1.0) · [Quick start](docs/guides/quickstart.md) · [Prepare your research](docs/guides/research-preparation.md)**
 
-Source version on this page: v1.0.0. [v1.1.0](https://github.com/hujizhou35-cmd/EpiStepLab/releases/tag/v1.1.0) is the current recommended download.
+Source version on this page: v1.1.0. [v1.1.0](https://github.com/hujizhou35-cmd/EpiStepLab/releases/tag/v1.1.0) is the current recommended download.
 
 ## Who it is for
 

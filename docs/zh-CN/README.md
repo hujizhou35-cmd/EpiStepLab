@@ -4,9 +4,9 @@
 
 与 AI 逐步讨论、运行和检查医学公共数据库的 R 分析。
 
-**[下载 v1.0.0](https://github.com/hujizhou35-cmd/EpiStepLab/releases/tag/v1.0.0) · [快速开始](quickstart.md) · [研究准备](research-preparation.md)**
+**[下载 v1.1.0](https://github.com/hujizhou35-cmd/EpiStepLab/releases/tag/v1.1.0) · [快速开始](quickstart.md) · [研究准备](research-preparation.md)**
 
-本页源码版本：v1.0.0。 当前推荐下载为 [v1.1.0](https://github.com/hujizhou35-cmd/EpiStepLab/releases/tag/v1.1.0)。
+本页源码版本：v1.1.0。 当前推荐下载为 [v1.1.0](https://github.com/hujizhou35-cmd/EpiStepLab/releases/tag/v1.1.0)。
 
 ## 适合谁，需要什么，得到什么
 

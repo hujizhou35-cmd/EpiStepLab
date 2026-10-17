@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Hu
     given-names: Jizhou
-version: 1.0.0
+version: 1.1.0
 date-released: 2026-10-18
 url: "https://github.com/hujizhou35-cmd/EpiStepLab"
 repository-code: "https://github.com/hujizhou35-cmd/EpiStepLab"

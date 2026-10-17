@@ -3,7 +3,7 @@
   "files": [
     {
       "public": ".codex-plugin/plugin.json",
-      "sha256": "0afae3f47a125ba5bb4bd5505b19eb1d0fba1894d03a0ad05323377d8f83ceed",
+      "sha256": "4b9f02e11e2dc8657b55177b03ef29fc366d03c781c5e37c2f143e6c961592bb",
       "treatment": "publication addition"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "public": "CITATION.cff",
-      "sha256": "ab167efae1d3aa628d9af6f6874b829440d8a67da6535ece339a22c8bf857ffb",
+      "sha256": "86fd9edfc3d51f73c691a03952908c1e59d146d344090f1201fd607de7a0e702",
       "treatment": "publication addition"
     },
     {
@@ -957,12 +957,12 @@
     },
     {
       "public": "docs/guides/installation.md",
-      "sha256": "3150a7010e5976fb446cbc857f41f6ed41b0dc26850ceb031f9cdb3e0f370856",
+      "sha256": "a3e649c56dbaf56b853608e000449d56261407d2755512b525b430a248db5013",
       "treatment": "publication addition"
     },
     {
       "public": "docs/guides/quickstart.md",
-      "sha256": "1a8143372bc39bbee5f15b45a4ba2ab84b319734a6705f4aa8662a8b15702b3d",
+      "sha256": "7f3fd62b2d7d1750be3fb2c2ebf092c03382dfe7cdb1458cad5217ac3cede948",
       "treatment": "publication addition"
     },
     {
@@ -1190,17 +1190,17 @@
     },
     {
       "public": "docs/zh-CN/installation.md",
-      "sha256": "3b0dc6be4670bff71c925da6b83e21b76d07600dc27ce7893230960051b33042",
+      "sha256": "7134cc98f4776a6798db9560f70ae66290458847bcdd51ee095dded8328d51c1",
       "treatment": "publication addition"
     },
     {
       "public": "docs/zh-CN/quickstart.md",
-      "sha256": "91d5e8b5af9538fd715c814c87652d06e72d883a8f502626bc818f0363f16848",
+      "sha256": "b16f0a55957e3f71dfebc9af57cbc741872941a5b492cfdcf5b447ad87163b21",
       "treatment": "publication addition"
     },
     {
       "public": "docs/zh-CN/README.md",
-      "sha256": "5bb96f1ce5378f8cac366a47ce97c8b65bb9c981d00b839f8c5b58c2baf26020",
+      "sha256": "ac088602f45e11c5446b0c5f552f783d5e28285a218abd04bd83c8811f720270",
       "treatment": "publication addition"
     },
     {
@@ -1220,7 +1220,7 @@
     },
     {
       "public": "README.md",
-      "sha256": "1ab708850c41a99f40aa5b0f0840895d0776d075543f184078192a5f3d5b7ab7",
+      "sha256": "84429e8870952277382f499a769155c5800957cd6ec5fc790ba433e2721f44ab",
       "treatment": "publication addition"
     }
   ]

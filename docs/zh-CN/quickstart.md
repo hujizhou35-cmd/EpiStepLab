@@ -3,7 +3,7 @@
 [English](../guides/quickstart.md) | **简体中文** · [首页](README.md)
 
 1. 阅读[研究准备](research-preparation.md)，再[取得完整技能](installation.md)。
-2. 在 AI 工具中明确选择 EpiStepLab v1.0.0，或让它读取解包后的 `episteplab/SKILL.md` 及按需参考文件。提供研究目录、允许写入目录、数据获取情况、字典和当前问题。
+2. 在 AI 工具中明确选择 EpiStepLab v1.1.0，或让它读取解包后的 `episteplab/SKILL.md` 及按需参考文件。提供研究目录、允许写入目录、数据获取情况、字典和当前问题。
 3. 讨论当前一步的输入、指标、方法与检查方式。确认后，AI 保存普通 R 代码，审查，在适当情况下用新 R 会话运行，查看实际结果，汇报后等待下一步讨论。
 
 ```text

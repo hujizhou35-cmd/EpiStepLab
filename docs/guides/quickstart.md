@@ -3,7 +3,7 @@
 [English](quickstart.md) | [简体中文](../zh-CN/quickstart.md) · [Home](../../README.md)
 
 1. Read [research preparation](research-preparation.md), then [get the complete skill](installation.md).
-2. In your AI host, explicitly select EpiStepLab v1.0.0, or ask it to read the extracted `episteplab/SKILL.md` and its referenced files. Supply your study directory, permitted output directory, data availability, dictionaries, and current question.
+2. In your AI host, explicitly select EpiStepLab v1.1.0, or ask it to read the extracted `episteplab/SKILL.md` and its referenced files. Supply your study directory, permitted output directory, data availability, dictionaries, and current question.
 3. Discuss the actual current step. Confirm its inputs, definitions, choices, and checks. The AI then saves ordinary R code, reviews it, runs it in a fresh R session where appropriate, inspects outputs, reports, and stops for the next discussion.
 
 ```text

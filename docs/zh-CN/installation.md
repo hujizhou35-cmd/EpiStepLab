@@ -6,11 +6,11 @@
 
 | 文件 | 用途 |
 |---|---|
-| `episteplab-v1.0.0.skill` | ZIP 容器，包含完整技能目录与 MIT 许可 |
-| `episteplab-codex-plugin-v1.0.0.zip` | 同一完整技能的轻量 Codex Plugin 包装 |
+| `episteplab-v1.1.0.skill` | ZIP 容器，包含完整技能目录与 MIT 许可 |
+| `episteplab-codex-plugin-v1.1.0.zip` | 同一完整技能的轻量 Codex Plugin 包装 |
 | `SKILL.md` | 阅读或预览主体，不含参考文件和模板 |
 
-[进入该版 Release](https://github.com/hujizhou35-cmd/EpiStepLab/releases/tag/v1.0.0)。GitHub 自动生成的 Source code ZIP/TAR 是标签对应的整个公开仓库，含文档和开发材料，不是额外的安装版本。
+[进入该版 Release](https://github.com/hujizhou35-cmd/EpiStepLab/releases/tag/v1.1.0)。GitHub 自动生成的 Source code ZIP/TAR 是标签对应的整个公开仓库，含文档和开发材料，不是额外的安装版本。
 
 ## 完整技能：最直接的使用方式
 
