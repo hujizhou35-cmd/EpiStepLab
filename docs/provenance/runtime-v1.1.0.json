@@ -1,0 +1,139 @@
+{
+  "version": "1.1.0",
+  "origin": "independent preserved version v1.1.0",
+  "files": [
+    {
+      "source": "episteplab/agents/openai.yaml",
+      "public": "skills/episteplab/agents/openai.yaml",
+      "bytes": 351,
+      "sha256": "947853ee6b403a509fbdf0d7cf53683280984e9fded63d0824f4012788736bdf",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/单步分析.R",
+      "public": "skills/episteplab/assets/templates/单步分析.R",
+      "bytes": 5497,
+      "sha256": "f772018efcf6312d3106b9b3b5812f795f41ece938735599bba93216b8e86213",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/指标溯源.md",
+      "public": "skills/episteplab/assets/templates/指标溯源.md",
+      "bytes": 2272,
+      "sha256": "f55c144cf46bc008305db93438f315443d7028caa4ef402f361f62ad41f91f25",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/方法检索与比较.md",
+      "public": "skills/episteplab/assets/templates/方法检索与比较.md",
+      "bytes": 3533,
+      "sha256": "6fae35daee5f2586c1e0b9569fa20b92c85d73d7c31e966a3b0c54886b240b28",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/本步工具.R",
+      "public": "skills/episteplab/assets/templates/本步工具.R",
+      "bytes": 6361,
+      "sha256": "aa036012dcfd67322b7471e2de0da5123216b90c1d241e065dc4e107e57c2420",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/本步说明.md",
+      "public": "skills/episteplab/assets/templates/本步说明.md",
+      "bytes": 1525,
+      "sha256": "7c6136a2a2074ff70f0b3a279d7e0f136b7d97bc12daef2ab723dab18e9f56dc",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/检查记录.md",
+      "public": "skills/episteplab/assets/templates/检查记录.md",
+      "bytes": 1095,
+      "sha256": "c44840422be75e8d1f324bace7178d7ad99a952b1562e89a4a77a3d0cbcfcd7a",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/研究方案.md",
+      "public": "skills/episteplab/assets/templates/研究方案.md",
+      "bytes": 3555,
+      "sha256": "9b8ad91bd6379452510f4124a3d9fc2b5fe836f481e76b1439d69e82f28b3355",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/研究进度.md",
+      "public": "skills/episteplab/assets/templates/研究进度.md",
+      "bytes": 2130,
+      "sha256": "9d6e8bf831d1e5c5d65cd8354661726e60e28f3a4600ba2088a0692f9778f3cb",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/高计算量运行说明.md",
+      "public": "skills/episteplab/assets/templates/高计算量运行说明.md",
+      "bytes": 1191,
+      "sha256": "628fb991432878b838e92c8081192435f268872a0c0d9c37fdaa59dfad48da36",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/references/analysis-decisions.md",
+      "public": "skills/episteplab/references/analysis-decisions.md",
+      "bytes": 13785,
+      "sha256": "fa7d519981c8d2c425049e4527ccb3bfe5196c0ef731731b09ffcd94d368a89f",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/references/database-audit.md",
+      "public": "skills/episteplab/references/database-audit.md",
+      "bytes": 7149,
+      "sha256": "0211a3c8e61702e0299d89cc430755aba47a3d51f6a24c513b143365530fbd56",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/references/files-and-r.md",
+      "public": "skills/episteplab/references/files-and-r.md",
+      "bytes": 5470,
+      "sha256": "edaa955b67ea16b245edab6945b17c968192a81edb07e44ba2a6804e32e6fe8c",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/references/indicator-provenance.md",
+      "public": "skills/episteplab/references/indicator-provenance.md",
+      "bytes": 6116,
+      "sha256": "2a35fcc64b46613d230b1c6f255469de1ee2d4b2880258800a22b1a3a053c980",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/references/method-discovery.md",
+      "public": "skills/episteplab/references/method-discovery.md",
+      "bytes": 7400,
+      "sha256": "d963633e9db1748b454815597ad17a399a4f24d6a927dbd5ab09837e37d28078",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/references/method-selection.md",
+      "public": "skills/episteplab/references/method-selection.md",
+      "bytes": 10909,
+      "sha256": "c5501286361252aaa76ad09d50dddff6361689c14f694197694b3fc9ebb8be1c",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/references/step-workflow.md",
+      "public": "skills/episteplab/references/step-workflow.md",
+      "bytes": 4722,
+      "sha256": "fe8e265c00efd268c83d3728a6471a38d67ebca02b13fb6e50440f7423bb9fa4",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/references/study-design.md",
+      "public": "skills/episteplab/references/study-design.md",
+      "bytes": 6752,
+      "sha256": "5979b013ff7a7df8f3902d429e09af16cb061d9cfd3f8da842771bd62dde901a",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/SKILL.md",
+      "public": "skills/episteplab/SKILL.md",
+      "bytes": 10104,
+      "sha256": "6ad373df996fcde01be726fe0ace34450b7dae408787493609b47d42e77ee3e9",
+      "treatment": "byte-identical"
+    }
+  ]
+}

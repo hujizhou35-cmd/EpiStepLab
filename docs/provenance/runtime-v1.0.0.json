@@ -1,0 +1,104 @@
+{
+  "version": "1.0.0",
+  "origin": "independent preserved version v1.0.0",
+  "files": [
+    {
+      "source": "episteplab/agents/openai.yaml",
+      "public": "skills/episteplab/agents/openai.yaml",
+      "bytes": 318,
+      "sha256": "e89d21d2fd92d3b3d07b6482de498ed1f668e74cf63493971ada67bba24cf462",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/单步分析.R",
+      "public": "skills/episteplab/assets/templates/单步分析.R",
+      "bytes": 5497,
+      "sha256": "f772018efcf6312d3106b9b3b5812f795f41ece938735599bba93216b8e86213",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/本步工具.R",
+      "public": "skills/episteplab/assets/templates/本步工具.R",
+      "bytes": 6361,
+      "sha256": "aa036012dcfd67322b7471e2de0da5123216b90c1d241e065dc4e107e57c2420",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/本步说明.md",
+      "public": "skills/episteplab/assets/templates/本步说明.md",
+      "bytes": 1525,
+      "sha256": "7c6136a2a2074ff70f0b3a279d7e0f136b7d97bc12daef2ab723dab18e9f56dc",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/检查记录.md",
+      "public": "skills/episteplab/assets/templates/检查记录.md",
+      "bytes": 1095,
+      "sha256": "c44840422be75e8d1f324bace7178d7ad99a952b1562e89a4a77a3d0cbcfcd7a",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/研究方案.md",
+      "public": "skills/episteplab/assets/templates/研究方案.md",
+      "bytes": 1626,
+      "sha256": "8b77ed2290c7766b8d529b01568d6ffedefaa8409d04778d8472dd0f93db643c",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/研究进度.md",
+      "public": "skills/episteplab/assets/templates/研究进度.md",
+      "bytes": 1186,
+      "sha256": "8c54b475a2c6efe42114aa9609748d07656272297fbac3c7dc2d0cda2f3cf7f1",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/assets/templates/高计算量运行说明.md",
+      "public": "skills/episteplab/assets/templates/高计算量运行说明.md",
+      "bytes": 1191,
+      "sha256": "628fb991432878b838e92c8081192435f268872a0c0d9c37fdaa59dfad48da36",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/references/analysis-decisions.md",
+      "public": "skills/episteplab/references/analysis-decisions.md",
+      "bytes": 13444,
+      "sha256": "12f184afc7db744f3072b3d9f349273b1675306c44c80045e953bc1e8547268a",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/references/database-audit.md",
+      "public": "skills/episteplab/references/database-audit.md",
+      "bytes": 7149,
+      "sha256": "0211a3c8e61702e0299d89cc430755aba47a3d51f6a24c513b143365530fbd56",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/references/files-and-r.md",
+      "public": "skills/episteplab/references/files-and-r.md",
+      "bytes": 5470,
+      "sha256": "edaa955b67ea16b245edab6945b17c968192a81edb07e44ba2a6804e32e6fe8c",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/references/step-workflow.md",
+      "public": "skills/episteplab/references/step-workflow.md",
+      "bytes": 4350,
+      "sha256": "19b03fbafa3c0d2cf3c95afd52921c79b17e347095b1e07f0e1fe68d95b61cdb",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/references/study-design.md",
+      "public": "skills/episteplab/references/study-design.md",
+      "bytes": 6354,
+      "sha256": "c79a95cc1f54f59b0d556b95420ee39ec2eee49fa77d4dea7b327b29621e3b71",
+      "treatment": "byte-identical"
+    },
+    {
+      "source": "episteplab/SKILL.md",
+      "public": "skills/episteplab/SKILL.md",
+      "bytes": 6908,
+      "sha256": "1e3d1006f98ec7e4c9d99394c5c0588620f009301930899fdb16f851d42b3f20",
+      "treatment": "byte-identical"
+    }
+  ]
+}

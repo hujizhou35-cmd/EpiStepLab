@@ -1,0 +1,1227 @@
+{
+  "purpose": "Publication additions and selected source evidence; runtime mappings are separate. Original machine paths remain local.",
+  "files": [
+    {
+      "public": ".codex-plugin/plugin.json",
+      "sha256": "0afae3f47a125ba5bb4bd5505b19eb1d0fba1894d03a0ad05323377d8f83ceed",
+      "treatment": "publication addition"
+    },
+    {
+      "public": ".gitattributes",
+      "sha256": "694c1d53a28e6d17ece648bb5092150e4a3112199c89945b2177fbd94c1e2fcf",
+      "treatment": "publication addition"
+    },
+    {
+      "public": ".github/CONTRIBUTING.md",
+      "sha256": "e7160f30560cd4d273769c9e925f74940018bd8fd03f6af3b4ac1d926a6a473b",
+      "treatment": "publication addition"
+    },
+    {
+      "public": ".github/CONTRIBUTING.zh-CN.md",
+      "sha256": "3824665fda66367fad36f0a7942175580c01b455e855e49ec904709507cbaf01",
+      "treatment": "publication addition"
+    },
+    {
+      "public": ".github/ISSUE_TEMPLATE/config.yml",
+      "sha256": "13064e7bea658e01e718b414fbb7b3b244f36411fe25ee2055c151f7b534547a",
+      "treatment": "publication addition"
+    },
+    {
+      "public": ".github/ISSUE_TEMPLATE/improvement.yml",
+      "sha256": "f3f86ab2f30b8f85069b7f47dcc240dd3cbe064c627f5f56375d8fca149c529f",
+      "treatment": "publication addition"
+    },
+    {
+      "public": ".github/ISSUE_TEMPLATE/problem.yml",
+      "sha256": "83e408065a8f98b6c75e352091476749fe819b830ef650b5665353d956e8aeaa",
+      "treatment": "publication addition"
+    },
+    {
+      "public": ".github/pull_request_template.md",
+      "sha256": "9ff0f3907ec0da538e721c61259d907ab93660e7c58f6d55020c2a8c170c3dfb",
+      "treatment": "publication addition"
+    },
+    {
+      "public": ".github/workflows/check.yml",
+      "sha256": "836a3cb8b9aef8f5d5c2e982d805818d446430fbceb929afc741f98c878d0b88",
+      "treatment": "publication addition"
+    },
+    {
+      "public": ".gitignore",
+      "sha256": "a5974d99545f1988ad605c1f40f851d38cad1c34b744e705237b8f492dd05a74",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "CITATION.cff",
+      "sha256": "ab167efae1d3aa628d9af6f6874b829440d8a67da6535ece339a22c8bf857ffb",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "development/release/build_release.py",
+      "sha256": "4fc3d981ed82d5839efe2f2de94eeb3639128ddfffb3b9c0c67c18dbe073e33d",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "development/release/check_publication.py",
+      "sha256": "4e53b9b63bbcd69963413c147bdac37555f80af44ce632011360a7836567f90b",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "development/tests/README.md",
+      "sha256": "bd4d8dfdcb87ee2b72863868457cab3b2bc4def589e15c83c6ba48898c3106bc",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "development/tests/README.zh-CN.md",
+      "sha256": "a7a53652b6c5b60fa2e22c9fac93dc80bd692d417e83a23f5d73e369446f3804",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "development/tests/run_synthetic.py",
+      "sha256": "78f1787237b4d70e5ddb67a4d4d335492d980bf906605b400e0733c010bd5832",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "development/tests/v1.0.0/sources/run_technical_tests.R",
+      "sha256": "3d143779085aaf319fff806ef1680528b9e8cfd02cbb373e2e68ac3e6161c492",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/run_technical_tests.R",
+          "sha256": "3d143779085aaf319fff806ef1680528b9e8cfd02cbb373e2e68ac3e6161c492"
+        }
+      ]
+    },
+    {
+      "public": "development/tests/v1.0.0/sources/模拟单步.R",
+      "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/01_中文含空格路径_正常/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/02_缺少字段/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/03_重复键/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/04_缺失键/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/05_输入改动/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/06_模型表改动/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/07_绘图数值改动/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/08_复合键正确/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/09_复合键重复/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/10_搬移后_独立一步/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/12_source从其他目录调用/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/13_空白键/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/14_已有输出/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/15_缺少完整输入/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/16_输出与输入重名/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/01_中文含空格路径_正常/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/02_缺少字段/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/03_重复键/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/04_缺失键/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/05_输入改动/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/06_模型表改动/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/07_绘图数值改动/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/08_复合键正确/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/09_复合键重复/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/10_搬移后_独立一步/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/12_source从其他目录调用/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/13_空白键/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/14_已有输出/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/15_缺少完整输入/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/16_输出与输入重名/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/01_中文含空格路径_正常/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/02_缺少字段/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/03_重复键/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/04_缺失键/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/05_输入改动/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/06_模型表改动/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/07_绘图数值改动/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/08_复合键正确/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/09_复合键重复/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/10_搬移后_独立一步/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/12_source从其他目录调用/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/13_空白键/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/14_已有输出/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/15_缺少完整输入/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/16_输出与输入重名/模拟单步.R",
+          "sha256": "2f02d9574bc9a7ad8e8e57ca44868fa564a026e1c6fba914f7de942979dbe1f5"
+        }
+      ]
+    },
+    {
+      "public": "development/tests/v1.1.0/sources/audit_results.R",
+      "sha256": "f0cca21d5446b634ae3d32a63237a4f5f848dcc6691aab9c172f587d43d6c7a8",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/sources/audit_results.R",
+          "sha256": "f0cca21d5446b634ae3d32a63237a4f5f848dcc6691aab9c172f587d43d6c7a8"
+        }
+      ]
+    },
+    {
+      "public": "development/tests/v1.1.0/sources/clustering.R",
+      "sha256": "409755c85495ba7674a3e0e4cf7d48813662a636ff6e4f078c46c75a213474b8",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/sources/clustering.R",
+          "sha256": "409755c85495ba7674a3e0e4cf7d48813662a636ff6e4f078c46c75a213474b8"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/03_Kmeans_模拟/本步分析.R",
+          "sha256": "409755c85495ba7674a3e0e4cf7d48813662a636ff6e4f078c46c75a213474b8"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/04_Hierarchical_模拟/本步分析.R",
+          "sha256": "409755c85495ba7674a3e0e4cf7d48813662a636ff6e4f078c46c75a213474b8"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/07_Kmeans_未确认k拒绝/本步分析.R",
+          "sha256": "409755c85495ba7674a3e0e4cf7d48813662a636ff6e4f078c46c75a213474b8"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/03_Kmeans_模拟/本步分析.R",
+          "sha256": "409755c85495ba7674a3e0e4cf7d48813662a636ff6e4f078c46c75a213474b8"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/04_Hierarchical_模拟/本步分析.R",
+          "sha256": "409755c85495ba7674a3e0e4cf7d48813662a636ff6e4f078c46c75a213474b8"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/07_Kmeans_未确认k拒绝/本步分析.R",
+          "sha256": "409755c85495ba7674a3e0e4cf7d48813662a636ff6e4f078c46c75a213474b8"
+        }
+      ]
+    },
+    {
+      "public": "development/tests/v1.1.0/sources/common.R",
+      "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/sources/common.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/01_Spearman_中文 空格/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/02_PCA_模拟/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/03_Kmeans_模拟/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/04_Hierarchical_模拟/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/05_PCA_常量列拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/06_Spearman_调查推断拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/07_Kmeans_未确认k拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/08_PCA_缺失拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/09_Spearman_输入修改拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/10_Spearman_缺字段拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/11_PCA_未确认方法拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/01_Spearman_中文 空格/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/02_PCA_模拟/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/03_Kmeans_模拟/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/04_Hierarchical_模拟/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/05_PCA_常量列拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/06_Spearman_调查推断拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/07_Kmeans_未确认k拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/08_PCA_缺失拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/09_Spearman_输入修改拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/10_Spearman_缺字段拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/11_PCA_未确认方法拒绝/本步工具.R",
+          "sha256": "9d5cbc271b0ce015e508433e838f5f69edad9865ab686092704ad20a50bc94e6"
+        }
+      ]
+    },
+    {
+      "public": "development/tests/v1.1.0/sources/generate_fixtures.R",
+      "sha256": "c65d2e920999dd8c336ae7f4ab768c997af853b6769eb1d262d680ce7b0f2273",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/sources/generate_fixtures.R",
+          "sha256": "c65d2e920999dd8c336ae7f4ab768c997af853b6769eb1d262d680ce7b0f2273"
+        }
+      ]
+    },
+    {
+      "public": "development/tests/v1.1.0/sources/pca.R",
+      "sha256": "cb1e8a4fb0c05d13e1c976546005e82a03a85ea995d7a81836d22f30176463cd",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/sources/pca.R",
+          "sha256": "cb1e8a4fb0c05d13e1c976546005e82a03a85ea995d7a81836d22f30176463cd"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/02_PCA_模拟/本步分析.R",
+          "sha256": "cb1e8a4fb0c05d13e1c976546005e82a03a85ea995d7a81836d22f30176463cd"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/05_PCA_常量列拒绝/本步分析.R",
+          "sha256": "cb1e8a4fb0c05d13e1c976546005e82a03a85ea995d7a81836d22f30176463cd"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/08_PCA_缺失拒绝/本步分析.R",
+          "sha256": "cb1e8a4fb0c05d13e1c976546005e82a03a85ea995d7a81836d22f30176463cd"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/11_PCA_未确认方法拒绝/本步分析.R",
+          "sha256": "cb1e8a4fb0c05d13e1c976546005e82a03a85ea995d7a81836d22f30176463cd"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/02_PCA_模拟/本步分析.R",
+          "sha256": "cb1e8a4fb0c05d13e1c976546005e82a03a85ea995d7a81836d22f30176463cd"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/05_PCA_常量列拒绝/本步分析.R",
+          "sha256": "cb1e8a4fb0c05d13e1c976546005e82a03a85ea995d7a81836d22f30176463cd"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/08_PCA_缺失拒绝/本步分析.R",
+          "sha256": "cb1e8a4fb0c05d13e1c976546005e82a03a85ea995d7a81836d22f30176463cd"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/11_PCA_未确认方法拒绝/本步分析.R",
+          "sha256": "cb1e8a4fb0c05d13e1c976546005e82a03a85ea995d7a81836d22f30176463cd"
+        }
+      ]
+    },
+    {
+      "public": "development/tests/v1.1.0/sources/spearman.R",
+      "sha256": "914bb0d6de418ce08f2ca61bff286c4b805f0a0f5f9389729f4cbdb4cae793b7",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/sources/spearman.R",
+          "sha256": "914bb0d6de418ce08f2ca61bff286c4b805f0a0f5f9389729f4cbdb4cae793b7"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/01_Spearman_中文 空格/本步分析.R",
+          "sha256": "914bb0d6de418ce08f2ca61bff286c4b805f0a0f5f9389729f4cbdb4cae793b7"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/06_Spearman_调查推断拒绝/本步分析.R",
+          "sha256": "914bb0d6de418ce08f2ca61bff286c4b805f0a0f5f9389729f4cbdb4cae793b7"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/09_Spearman_输入修改拒绝/本步分析.R",
+          "sha256": "914bb0d6de418ce08f2ca61bff286c4b805f0a0f5f9389729f4cbdb4cae793b7"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/10_Spearman_缺字段拒绝/本步分析.R",
+          "sha256": "914bb0d6de418ce08f2ca61bff286c4b805f0a0f5f9389729f4cbdb4cae793b7"
+        }
+      ]
+    },
+    {
+      "public": "docs/assets/icon.png",
+      "sha256": "683dcc2a948ad50530dd7e17002bb9a4fc17e7b82b1428dfd33e0199219f9bba",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/assets/workflow.svg",
+      "sha256": "16b57152e190568280cab4ca96d86f02863841d3ba8a2c9ddfbbb3b8767ca51d",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/assets/workflow.zh-CN.svg",
+      "sha256": "d725f0abbd97954a6edb3e6d84af97b8abb0c0cf3e397e66a024cf3103621c08",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/examples/README.md",
+      "sha256": "a3fff1c9de2a967e1391ddc46daa14034bf2b35b8641551da0ead2f697be267c",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/examples/README.zh-CN.md",
+      "sha256": "8ff4f513047fc18944dc9de4fd331c192eb5fd7850d022b454269641ac1c4b0b",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/examples/simulated-lm/输入_模拟数据.csv",
+      "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/01_中文含空格路径_正常/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/06_模型表改动/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/07_绘图数值改动/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/10_搬移后_独立一步/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/12_source从其他目录调用/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/14_已有输出/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/16_输出与输入重名/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/01_中文含空格路径_正常/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/06_模型表改动/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/07_绘图数值改动/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/10_搬移后_独立一步/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/12_source从其他目录调用/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/14_已有输出/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/16_输出与输入重名/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/01_中文含空格路径_正常/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/06_模型表改动/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/07_绘图数值改动/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/10_搬移后_独立一步/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/12_source从其他目录调用/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/14_已有输出/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/16_输出与输入重名/输入_模拟数据.csv",
+          "sha256": "7191cb8782c071c9c4f1cf2f9feed685adca5b1d1b17049b5387deadd024544f"
+        }
+      ]
+    },
+    {
+      "public": "docs/examples/simulated-lm/输出_拟合图.png",
+      "sha256": "29fa8962ec9a1f005a7ac8c04aca1b8785179b1ec26cead4171019aa2f1a0ed2",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/01_中文含空格路径_正常/输出_拟合图.png",
+          "sha256": "29fa8962ec9a1f005a7ac8c04aca1b8785179b1ec26cead4171019aa2f1a0ed2"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/08_复合键正确/输出_拟合图.png",
+          "sha256": "29fa8962ec9a1f005a7ac8c04aca1b8785179b1ec26cead4171019aa2f1a0ed2"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/10_搬移后_独立一步/输出_拟合图.png",
+          "sha256": "29fa8962ec9a1f005a7ac8c04aca1b8785179b1ec26cead4171019aa2f1a0ed2"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/12_source从其他目录调用/输出_拟合图.png",
+          "sha256": "29fa8962ec9a1f005a7ac8c04aca1b8785179b1ec26cead4171019aa2f1a0ed2"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/01_中文含空格路径_正常/输出_拟合图.png",
+          "sha256": "29fa8962ec9a1f005a7ac8c04aca1b8785179b1ec26cead4171019aa2f1a0ed2"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/08_复合键正确/输出_拟合图.png",
+          "sha256": "29fa8962ec9a1f005a7ac8c04aca1b8785179b1ec26cead4171019aa2f1a0ed2"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/10_搬移后_独立一步/输出_拟合图.png",
+          "sha256": "29fa8962ec9a1f005a7ac8c04aca1b8785179b1ec26cead4171019aa2f1a0ed2"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/12_source从其他目录调用/输出_拟合图.png",
+          "sha256": "29fa8962ec9a1f005a7ac8c04aca1b8785179b1ec26cead4171019aa2f1a0ed2"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/01_中文含空格路径_正常/输出_拟合图.png",
+          "sha256": "29fa8962ec9a1f005a7ac8c04aca1b8785179b1ec26cead4171019aa2f1a0ed2"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/08_复合键正确/输出_拟合图.png",
+          "sha256": "29fa8962ec9a1f005a7ac8c04aca1b8785179b1ec26cead4171019aa2f1a0ed2"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/10_搬移后_独立一步/输出_拟合图.png",
+          "sha256": "29fa8962ec9a1f005a7ac8c04aca1b8785179b1ec26cead4171019aa2f1a0ed2"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/12_source从其他目录调用/输出_拟合图.png",
+          "sha256": "29fa8962ec9a1f005a7ac8c04aca1b8785179b1ec26cead4171019aa2f1a0ed2"
+        }
+      ]
+    },
+    {
+      "public": "docs/examples/simulated-lm/输出_系数表.csv",
+      "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/01_中文含空格路径_正常/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/07_绘图数值改动/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/08_复合键正确/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/10_搬移后_独立一步/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/12_source从其他目录调用/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/01_中文含空格路径_正常/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/07_绘图数值改动/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/08_复合键正确/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/10_搬移后_独立一步/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/12_source从其他目录调用/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/01_中文含空格路径_正常/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/07_绘图数值改动/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/08_复合键正确/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/10_搬移后_独立一步/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/12_source从其他目录调用/输出_系数表.csv",
+          "sha256": "ff2b5cf9b59c2f7eb31889d58720452268252c5c0c14d2a8718922424c0fcdd6"
+        }
+      ]
+    },
+    {
+      "public": "docs/examples/simulated-lm/输出_绘图数据.csv",
+      "sha256": "439d015d858ba74f88a9130c77c28f29ee41bf634319620135a031870bb2bd68",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/01_中文含空格路径_正常/输出_绘图数据.csv",
+          "sha256": "439d015d858ba74f88a9130c77c28f29ee41bf634319620135a031870bb2bd68"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/08_复合键正确/输出_绘图数据.csv",
+          "sha256": "439d015d858ba74f88a9130c77c28f29ee41bf634319620135a031870bb2bd68"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/10_搬移后_独立一步/输出_绘图数据.csv",
+          "sha256": "439d015d858ba74f88a9130c77c28f29ee41bf634319620135a031870bb2bd68"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/outputs/12_source从其他目录调用/输出_绘图数据.csv",
+          "sha256": "439d015d858ba74f88a9130c77c28f29ee41bf634319620135a031870bb2bd68"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/01_中文含空格路径_正常/输出_绘图数据.csv",
+          "sha256": "439d015d858ba74f88a9130c77c28f29ee41bf634319620135a031870bb2bd68"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/08_复合键正确/输出_绘图数据.csv",
+          "sha256": "439d015d858ba74f88a9130c77c28f29ee41bf634319620135a031870bb2bd68"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/10_搬移后_独立一步/输出_绘图数据.csv",
+          "sha256": "439d015d858ba74f88a9130c77c28f29ee41bf634319620135a031870bb2bd68"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/outputs/12_source从其他目录调用/输出_绘图数据.csv",
+          "sha256": "439d015d858ba74f88a9130c77c28f29ee41bf634319620135a031870bb2bd68"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/01_中文含空格路径_正常/输出_绘图数据.csv",
+          "sha256": "439d015d858ba74f88a9130c77c28f29ee41bf634319620135a031870bb2bd68"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/08_复合键正确/输出_绘图数据.csv",
+          "sha256": "439d015d858ba74f88a9130c77c28f29ee41bf634319620135a031870bb2bd68"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/10_搬移后_独立一步/输出_绘图数据.csv",
+          "sha256": "439d015d858ba74f88a9130c77c28f29ee41bf634319620135a031870bb2bd68"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/outputs/12_source从其他目录调用/输出_绘图数据.csv",
+          "sha256": "439d015d858ba74f88a9130c77c28f29ee41bf634319620135a031870bb2bd68"
+        }
+      ]
+    },
+    {
+      "public": "docs/guides/installation.md",
+      "sha256": "3150a7010e5976fb446cbc857f41f6ed41b0dc26850ceb031f9cdb3e0f370856",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/guides/quickstart.md",
+      "sha256": "1a8143372bc39bbee5f15b45a4ba2ab84b319734a6705f4aa8662a8b15702b3d",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/guides/research-preparation.md",
+      "sha256": "2301453f36a3bd9c605c87ad236605cec786ea44f345d1be7147ae1d5f8d55b3",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/guides/resuming.md",
+      "sha256": "9622e2121da3309839802893029681546a0dd8882b12622618bece3e67f99bbe",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/provenance/README.md",
+      "sha256": "ef82c35a246d3dea761e6cb765796c3ea43d1fb5788b0e6d20fc787595ffddc3",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/provenance/README.zh-CN.md",
+      "sha256": "4ca5f357595ef33fdbe58b48b69de5742d70fd250a2c212032cf8b04d8fb0351",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/provenance/runtime-v1.0.0.json",
+      "sha256": "ba5173678432e4aabfa1cace970a7dce951b56e689ed42d4ce2f58bb0884abf2",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/provenance/runtime-v1.1.0.json",
+      "sha256": "dcfec2afe25a1613a06db66f00e78214f69e9623e7a84a22f113799d5d323f44",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/README.md",
+      "sha256": "a9a2deda708a2b5aacf592b86eb762e25ff168431fd0153e04392dd717fdaa16",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/releases/README.md",
+      "sha256": "8369b3f797f42e65011aa6e3bb7d981153187876adbfb9a03c56b4bf6ebf7f64",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/releases/README.zh-CN.md",
+      "sha256": "e8d4d0bf3b4b5b1ab877844c57dd63575fbbb446d10c33e6fdc627ff8af2e063",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/releases/v1.0.0.md",
+      "sha256": "8db241332358eaea9b751344f72d6741fdb535bfcf48ab97ca51b6b53495d895",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/releases/v1.0.0.zh-CN.md",
+      "sha256": "91493c2696cdca5209e50becd2217632eba867b275f9d2b37d32e7e1ee2b2a30",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/releases/v1.1.0.md",
+      "sha256": "d65631a45a6fd276d7790cbc5b26339c9ef84f7cd92cc787772435593810f598",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/releases/v1.1.0.zh-CN.md",
+      "sha256": "3e9900c20945cb16e08521015d03bc54892161cd12041865e8a512aa100eb1e0",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/validation/publication-checks.json",
+      "sha256": "2fdfa7e62197cc4d83bf9dff9970950fec819f5bb6af160527a5157391a5d608",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/validation/README.md",
+      "sha256": "d02a370d7424f175c5adfd92580c2cbbcd350af5068f202cc306117033bf03db",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/validation/README.zh-CN.md",
+      "sha256": "eb2d0fa5ea57152cb682c09ddea5bb27df3d2bacb68406319ed9c0920e565ea5",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/validation/v1.0.0/evidence/skill-format.txt",
+      "sha256": "6cf9e7f0d34ccd36dbd28f270cd28dd04277b2e1516bd4333ce7bb501d7b18d4",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/skill_format_check.txt",
+          "sha256": "6cf9e7f0d34ccd36dbd28f270cd28dd04277b2e1516bd4333ce7bb501d7b18d4"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/skill_format_check.txt",
+          "sha256": "6cf9e7f0d34ccd36dbd28f270cd28dd04277b2e1516bd4333ce7bb501d7b18d4"
+        }
+      ]
+    },
+    {
+      "public": "docs/validation/v1.0.0/evidence/technical-results.csv",
+      "sha256": "4b7075ef02d2088b9ade085215250c739362485120612b07b20e5a1ea59ee283",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/technical_results.csv",
+          "sha256": "4b7075ef02d2088b9ade085215250c739362485120612b07b20e5a1ea59ee283"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_01/technical_results.csv",
+          "sha256": "4b7075ef02d2088b9ade085215250c739362485120612b07b20e5a1ea59ee283"
+        },
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/technical/attempt_02/technical_results.csv",
+          "sha256": "4b7075ef02d2088b9ade085215250c739362485120612b07b20e5a1ea59ee283"
+        }
+      ]
+    },
+    {
+      "public": "docs/validation/v1.0.0/report.md",
+      "sha256": "5292447ae6bf8734b1608bd876052158f6e878070ded93aaccfcefddc06f802c",
+      "treatment": "curated publication report; private paths and conversation links omitted; failures and limits retained",
+      "originals": [
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/验证报告.md",
+          "sha256": "8d3291799c91984961726c3cd4f00aa47e48d21aa398760524c0e931989647bb"
+        }
+      ]
+    },
+    {
+      "public": "docs/validation/v1.0.0/report.zh-CN.md",
+      "sha256": "f144427788cb9d3942e372ac7d27ac9d5d6be90ff2970c83ff220e63c4357d4b",
+      "treatment": "curated publication report; private paths and conversation links omitted; failures and limits retained",
+      "originals": [
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/验证报告.md",
+          "sha256": "8d3291799c91984961726c3cd4f00aa47e48d21aa398760524c0e931989647bb"
+        }
+      ]
+    },
+    {
+      "public": "docs/validation/v1.1.0/evidence/numeric-checks.csv",
+      "sha256": "1da7d930ba4c78eec6e8ca79c1175533b3687af7117fbec100fcff51a9b2a92e",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/audit/numeric_checks.csv",
+          "sha256": "1da7d930ba4c78eec6e8ca79c1175533b3687af7117fbec100fcff51a9b2a92e"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/audit/numeric_checks.csv",
+          "sha256": "1da7d930ba4c78eec6e8ca79c1175533b3687af7117fbec100fcff51a9b2a92e"
+        }
+      ]
+    },
+    {
+      "public": "docs/validation/v1.1.0/evidence/process-checks.csv",
+      "sha256": "f8384688effbdf9a8f87e57e1ebe54059db7fd10d432112e2de752c9276ea8fe",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_02/process_checks.csv",
+          "sha256": "f8384688effbdf9a8f87e57e1ebe54059db7fd10d432112e2de752c9276ea8fe"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/methods/attempt_03/process_checks.csv",
+          "sha256": "f8384688effbdf9a8f87e57e1ebe54059db7fd10d432112e2de752c9276ea8fe"
+        }
+      ]
+    },
+    {
+      "public": "docs/validation/v1.1.0/evidence/skill-format.txt",
+      "sha256": "6cf9e7f0d34ccd36dbd28f270cd28dd04277b2e1516bd4333ce7bb501d7b18d4",
+      "treatment": "byte-identical selection",
+      "originals": [
+        {
+          "version": "v1.0.0",
+          "relative_source": "validation/skill_format_check.txt",
+          "sha256": "6cf9e7f0d34ccd36dbd28f270cd28dd04277b2e1516bd4333ce7bb501d7b18d4"
+        },
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/skill_format_check.txt",
+          "sha256": "6cf9e7f0d34ccd36dbd28f270cd28dd04277b2e1516bd4333ce7bb501d7b18d4"
+        }
+      ]
+    },
+    {
+      "public": "docs/validation/v1.1.0/report.md",
+      "sha256": "ffb1adf72daac8aaf58bacac1a4e5b285d6b01bf6349dfeb17e30d7e465674eb",
+      "treatment": "curated publication report; private paths and conversation links omitted; failures and limits retained",
+      "originals": [
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/验证报告.md",
+          "sha256": "f0f64c0363376a9a238d4f3d8dec842ef298551575fc7e4fe943601e4e1eef6c"
+        }
+      ]
+    },
+    {
+      "public": "docs/validation/v1.1.0/report.zh-CN.md",
+      "sha256": "7bfc773ee41be3e642abe0c0e697302b25954200cc7cb4d6606ce868b14a8001",
+      "treatment": "curated publication report; private paths and conversation links omitted; failures and limits retained",
+      "originals": [
+        {
+          "version": "v1.1.0",
+          "relative_source": "validation/验证报告.md",
+          "sha256": "f0f64c0363376a9a238d4f3d8dec842ef298551575fc7e4fe943601e4e1eef6c"
+        }
+      ]
+    },
+    {
+      "public": "docs/zh-CN/docs.md",
+      "sha256": "13460f28b9719eb873a0f0afde319e00ce23af37bc1afc991d63e45dff04163d",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/zh-CN/installation.md",
+      "sha256": "3b0dc6be4670bff71c925da6b83e21b76d07600dc27ce7893230960051b33042",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/zh-CN/quickstart.md",
+      "sha256": "91d5e8b5af9538fd715c814c87652d06e72d883a8f502626bc818f0363f16848",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/zh-CN/README.md",
+      "sha256": "5bb96f1ce5378f8cac366a47ce97c8b65bb9c981d00b839f8c5b58c2baf26020",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/zh-CN/research-preparation.md",
+      "sha256": "2d8cbdf0e002cee6b2076ebd4879d433fbaaf03e412d6a6e78f7ffc612138d90",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "docs/zh-CN/resuming.md",
+      "sha256": "84b21f8cb152389b7c7506733b0c4c555781be466a3096284f195521e2f2d228",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "LICENSE",
+      "sha256": "7e31154a01c13a7659936e6bf680188d4d5724ef9d1e9b9cb1afe8fcc5d2d3da",
+      "treatment": "publication addition"
+    },
+    {
+      "public": "README.md",
+      "sha256": "1ab708850c41a99f40aa5b0f0840895d0776d075543f184078192a5f3d5b7ab7",
+      "treatment": "publication addition"
+    }
+  ]
+}

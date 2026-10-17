@@ -1,0 +1,4 @@
+interface:
+  display_name: "EpiStepLab"
+  short_description: "医学公共数据库分步分析：逐步讨论，保存完整输入与可独立运行的 R 代码"
+  default_prompt: "请使用 $episteplab 检查当前研究目录的数据来源与字段资料，先讨论研究问题，再逐步完成 R 分析。"

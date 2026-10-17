@@ -1,0 +1,20 @@
+name: Problem report / 问题报告
+description: Report a reproducible problem with a simulated example.
+body:
+  - type: markdown
+    attributes:
+      value: "Use simulated data only. Remove private paths and credentials. / 仅用模拟数据，移除私有路径和凭据。"
+  - type: textarea
+    id: environment
+    attributes:
+      label: Version and environment / 版本与环境
+      description: EpiStepLab version, host, OS, R version.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Minimal example / 最小示例
+      description: Steps, expected behavior, actual behavior, sanitized output.
+    validations:
+      required: true

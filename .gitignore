@@ -1,0 +1,10 @@
+# Local build/test products are never release sources.
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.cache/
+.build/
+.test-runs/
+.env
+*.log

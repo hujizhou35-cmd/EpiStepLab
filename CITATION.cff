@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use EpiStepLab, cite the version you used."
+title: EpiStepLab
+type: software
+authors:
+  - family-names: Hu
+    given-names: Jizhou
+version: 1.0.0
+date-released: 2026-10-18
+url: "https://github.com/hujizhou35-cmd/EpiStepLab"
+repository-code: "https://github.com/hujizhou35-cmd/EpiStepLab"
+license: MIT

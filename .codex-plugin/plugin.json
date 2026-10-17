@@ -1,0 +1,29 @@
+{
+  "name": "episteplab",
+  "version": "1.0.0",
+  "description": "Discuss, run, and check medical public-database R research one confirmed step at a time. Runtime resources are Chinese.",
+  "author": {
+    "name": "Jizhou Hu",
+    "url": "https://github.com/hujizhou35-cmd"
+  },
+  "homepage": "https://github.com/hujizhou35-cmd/EpiStepLab",
+  "repository": "https://github.com/hujizhou35-cmd/EpiStepLab",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "EpiStepLab",
+    "shortDescription": "Stepwise research with R",
+    "longDescription": "A Chinese-language skill for researchers who want to discuss each step, keep complete inputs, and inspect actual R outputs. Requires host file access, R for execution, search tools for discovery, and visual review capabilities. Real-study validity and comprehensive host compatibility are not established.",
+    "developerName": "Jizhou Hu",
+    "category": "Productivity",
+    "capabilities": [
+      "Discuss research steps",
+      "Check data and definitions",
+      "Prepare readable R analysis"
+    ],
+    "websiteURL": "https://github.com/hujizhou35-cmd/EpiStepLab",
+    "supportURL": "https://github.com/hujizhou35-cmd/EpiStepLab/issues",
+    "composerIcon": "./docs/assets/icon.png",
+    "logo": "./docs/assets/icon.png"
+  }
+}

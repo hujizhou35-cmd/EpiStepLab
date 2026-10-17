@@ -1,0 +1,14 @@
+name: Improvement / 改进建议
+description: Suggest a focused documentation, compatibility, or method improvement.
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Problem and proposed change / 问题与建议
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Sources and checks / 来源与检查
+      description: For methods or field rules, explain applicability and evidence. No real individual data.

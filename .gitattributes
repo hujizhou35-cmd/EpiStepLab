@@ -1,0 +1,7 @@
+* text=auto eol=lf
+skills/episteplab/** -text
+docs/validation/**/evidence/** -text
+docs/examples/** -text
+development/tests/**/sources/** -text
+*.png binary
+*.svg text eol=lf
